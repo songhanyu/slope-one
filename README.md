@@ -1,2 +1,2 @@
 # slope-one
-融合用户相速度的Slope One改进方法研究
+融合用户相似度的Slope One改进方法研究
